@@ -1,8 +1,20 @@
-# La Empatía como Fundamento de la Influencia
+# Técnicas de influencia y persuacuión
+La influencia es el poder que podemos sobre otras para cambiar o moldear su pensamiento, el ejercicio de la influecnia es crucial en todos los aspectos de la vida, desde los negocios hasta la vida politica, es importante del ejecicio de esta habilidad ya que te dara ventaja para alcanzar tus metas y objetivos. 
 
-La empatía, como principio inicial de influencia, se basa en nuestra inclinación humana a sentirnos más receptivos hacia individuos que nos caen bien. Esta dinámica es fundamental para líderes que desean influir de manera efectiva en su entorno laboral.
+Simpatía
 
-Investigadores de psicología en Canadá evidenciaron que el respaldo de figuras admiradas, como George Clooney y Emma Watson, alteró actitudes hacia la teoría de la evolución. La presencia de un comunicador empático resulta crucial para instaurar nuevas perspectivas.
+
+## La Simpatía como Fundamento de la Influencia
+Somos más influenciables ante personas que no agradan, la simpatía es una cualidad que hace que nos acerca a las personas. Cuando nos agrada una persona, estamos más dispuestoa a escuchar, cooperar e incluso seguir sus indicaciones 
+
+Cosas que generan simpatía:
+
+Similitud
+Halagos y cumplidos
+Contacto frecuente
+Nos gusta lo que nos resulta familiar 
+Asociación con cosas positivas 
+Atractivo físico
 
 ## Factores que Favorecen la Empatía:
 
