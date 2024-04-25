@@ -5,31 +5,26 @@ Simpatía
 
 
 ## La Simpatía como Fundamento de la Influencia
-Somos más influenciables ante personas que no agradan, la simpatía es una cualidad que hace que nos acerca a las personas. Cuando nos agrada una persona, estamos más dispuestoa a escuchar, cooperar e incluso seguir sus indicaciones 
+
+Somos más influenciables ante personas que nos agradan, la simpatía es una cualidad que hace que nos acerque a las personas. Cuando nos agrada una persona, estamos más dispuestos a escuchar, cooperar e incluso seguir sus indicaciones.
 
 Cosas que generan simpatía:
 
-Similitud
-Halagos y cumplidos
-Contacto frecuente
-Nos gusta lo que nos resulta familiar 
-Asociación con cosas positivas 
-Atractivo físico
+- Similitud
+- Halagos y cumplidos
+- Contacto frecuente
+- Nos gusta lo que nos resulta familiar
+- Asociación con cosas positivas
+- Atractivo físico
 
-## Factores que Favorecen la Empatía:
-
-- **Semejanza:** Sentimos afinidad hacia aquellos que comparten características similares en edad, género, intereses o valores.
-- **Elogios:** Halagar genera simpatía y conformidad.
-- **Contacto:** La cercanía incrementa la empatía.
-- **Asociación:** Nos resulta más fácil sentir simpatía hacia lo positivo y atractivo.
-- **Atractivo Físico:** La atracción física impacta en la percepción de empatía.
-
-## Aplicación Práctica en el Ámbito Laboral:
+## ¿C+omo aplicarlo en la vida real?:
 
 ### Conexión Personal:
-- Dedica tiempo a conocer a líderes y colegas.
+- Generar interes genuino e
+- Propón encuentros informales para compartir experiencias.
+- Dedicar tiempo a escuchar y conocer a líderes y colegas.
 - Establece vínculos con sus intereses y metas personales.
-- Propón encuentros informales para compartir.
+
 
 ### Intereses Compartidos:
 - Identifica intereses comunes no relacionados con el trabajo.
