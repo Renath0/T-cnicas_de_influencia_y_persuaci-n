@@ -117,11 +117,6 @@ Las personas determinan lo correcto según las acciones de otros. Una acción se
 - Comparar productos con buenas críticas, como en Amazon, para influir en las decisiones.
 - Compartir casos de éxito para inspirar a los equipos a adoptar nuevas prácticas.
 
-## Casos de Estudio y Referencias
-
-- Proyectos como el Aristóteles de Google y otros estudios son efectivos para motivar cambios.
-- Utilizar ejemplos de empresas como Netflix o Spotify para desafiar prácticas actuales.
-
 ## Creación de Grupos de Influencia
 
 - Formar coaliciones o grupos de embajadores para liderar transformaciones.
