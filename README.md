@@ -171,39 +171,35 @@ Los objetos escasos son percibidos como más valiosos. La escasez genera deseo y
 
 La coherencia es esencial tanto en la vida personal como profesional. Actuar de manera coherente con lo que se dice aumenta la credibilidad y la confianza.
 
-## Estudio de Steven Sherman
-
-Un estudio reveló que el compromiso verbal previo aumentó en un 700% la participación en una campaña de recaudación de fondos para la lucha contra el cáncer.
-
 ## Influencia de la Coherencia en la Imagen Social
 
-La falta de coherencia puede dañar la imagen social al hacer que una persona parezca impredecible y poco confiable.
+- La falta de coherencia puede dañar la imagen social al hacer que una persona parezca impredecible y poco confiable.
 
 ## Presiones Personales e Interpersonales
 
-Después de declarar una posición o tomar una decisión, surgen presiones que nos impulsan a actuar de manera coherente con ese compromiso.
+- Después de declarar una posición o tomar una decisión, surgen presiones que nos impulsan a actuar de manera coherente con ese compromiso.
 
 ## Coherencia en el Liderazgo y la Cultura de Equipo
 
-La coherencia entre lo que los líderes dicen y hacen es crucial para dar forma a la cultura de un equipo y establecer credibilidad.
+- La coherencia entre lo que los líderes dicen y hacen es crucial para dar forma a la cultura de un equipo y establecer credibilidad.
 
 ## Ejemplos de Acciones Coherentes e Incoherentes
 
-La coherencia se refleja en aspectos como la puntualidad y la innovación en el trabajo, siendo crucial que las acciones del líder estén alineadas con lo que pide a su equipo.
+- La coherencia se refleja en aspectos como la puntualidad y la innovación en el trabajo, siendo crucial que las acciones del líder estén alineadas con lo que pide a su equipo.
 
 ## Influencia de la Coherencia en la Cultura Organizacional
 
-Los líderes deben ser conscientes de cómo sus acciones y decisiones impactan la cultura del equipo y la organización.
+- Los líderes deben ser conscientes de cómo sus acciones y decisiones impactan la cultura del equipo y la organización.
 
 ## Tácticas para Aplicar la Coherencia
 
-Incluir al equipo en la creación de valores y normas, ser transparente y honesto en la comunicación y toma de decisiones.
+- Incluir al equipo en la creación de valores y normas, ser transparente y honesto en la comunicación y toma de decisiones.
 
 ## Importancia de Reconocer y Sancionar Conductas de Manera Coherente
 
-La incoherencia en el reconocimiento y sanción de conductas puede generar percepciones de favoritismo o injusticia.
+- La incoherencia en el reconocimiento y sanción de conductas puede generar percepciones de favoritismo o injusticia.
 
 ## Autoevaluación de la Coherencia
 
-Reflexionar sobre la coherencia entre lo que se dice y se hace, y su impacto en el liderazgo y la cultura del equipo.
+- Reflexionar sobre la coherencia entre lo que se dice y se hace, y su impacto en el liderazgo y la cultura del equipo.
 
