@@ -1,14 +1,14 @@
-# Técnicas de influencia y persuacuión
-La influencia es el poder que podemos sobre otras para cambiar o moldear su pensamiento, el ejercicio de la influecnia es crucial en todos los aspectos de la vida, desde los negocios hasta la vida politica, es importante del ejecicio de esta habilidad ya que te dara ventaja para alcanzar tus metas y objetivos. 
+# Técnicas de Influencia y Persuasión
 
-Simpatía
+La influencia es el poder que podemos ejercer sobre otras personas para cambiar o moldear su pensamiento. El ejercicio de la influencia es crucial en todos los aspectos de la vida, desde los negocios hasta la vida política. Es importante dominar esta habilidad, ya que te dará ventaja para alcanzar tus metas y objetivos.
 
+## Simpatía
 
-## La Simpatía como Fundamento de la Influencia
+### La Simpatía como Fundamento de la Influencia
 
-Somos más influenciables ante personas que nos agradan, la simpatía es una cualidad que hace que nos acerque a las personas. Cuando nos agrada una persona, estamos más dispuestos a escuchar, cooperar e incluso seguir sus indicaciones.
+La simpatía es una cualidad que nos hace más influenciables ante personas que nos agradan. Cuando nos agrada una persona, estamos más dispuestos a escuchar, cooperar e incluso seguir sus indicaciones.
 
-Cosas que generan simpatía:
+#### Cosas que generan simpatía:
 
 - Similitud
 - Halagos y cumplidos
@@ -17,45 +17,49 @@ Cosas que generan simpatía:
 - Asociación con cosas positivas
 - Atractivo físico
 
-## ¿C+omo aplicarlo en la vida real?:
+### ¿Cómo aplicarlo en la vida real?
 
-### Conexión Personal:
-- Generar interes genuino e
-- Propón encuentros informales para compartir experiencias.
+#### Conexión Personal:
+
+- Generar interés genuino
+- Proponer encuentros informales para compartir experiencias.
 - Dedicar tiempo a escuchar y conocer a líderes y colegas.
-- Establece vínculos con sus intereses y metas personales.
+- Establecer vínculos con sus intereses y metas personales.
 
+#### Intereses Compartidos:
 
-### Intereses Compartidos:
-- Identifica intereses comunes no relacionados con el trabajo.
-- Descubre hobbies, gustos o actividades deportivas compartidas.
+- Identificar intereses comunes no relacionados con el trabajo.
+- Descubrir hobbies, gustos o actividades deportivas compartidas.
 
-### Uso del Humor:
-- Introduce el humor para conectar de manera efectiva.
+#### Uso del Humor:
+
+- Introducir el humor para conectar de manera efectiva.
 - Los líderes con sentido del humor son percibidos como más agradables y respetados.
 
-### Reconocimiento y Apreciación:
-- Reconoce y valora el esfuerzo del equipo.
-- Fomenta un ambiente positivo y empático.
+#### Reconocimiento y Apreciación:
 
-### Comunicación Motivadora:
-- Dirígete y comunica de manera inspiradora.
-- Explica el propósito para motivar al equipo.
+- Reconocer y valorar el esfuerzo del equipo.
+- Fomentar un ambiente positivo y empático.
 
-## Advertencias para el Uso Ético de la Empatía:
+#### Comunicación Motivadora:
+
+- Dirigirse y comunicar de manera inspiradora.
+- Explicar el propósito para motivar al equipo.
+
+### Advertencias para el Uso Ético de la Empatía:
 
 - **Ética y Sinceridad:**
-  - Utiliza la empatía de forma ética y genuina.
-  - Evita el abuso del poder para beneficio personal.
+  - Utilizar la empatía de forma ética y genuina.
+  - Evitar el abuso del poder para beneficio personal.
 - **Humor en el Contexto Adecuado:**
   - El humor es efectivo, pero úsalo en situaciones apropiadas.
-  - Evita contextos inapropiados.
+  - Evitar contextos inapropiados.
 
 ---
 
 # El Poder de la Reciprocidad en el Liderazgo
 
-Fomentar compromiso y colaboración en equipos a través de la reciprocidad.
+Fomentar el compromiso y la colaboración en equipos a través de la reciprocidad.
 
 ## Experimento sobre Reciprocidad
 
@@ -207,5 +211,4 @@ La incoherencia en el reconocimiento y sanción de conductas puede generar perce
 ## Autoevaluación de la Coherencia
 
 Reflexionar sobre la coherencia entre lo que se dice y se hace, y su impacto en el liderazgo y la cultura del equipo.
-
 
